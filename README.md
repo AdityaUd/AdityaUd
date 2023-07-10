@@ -9,10 +9,10 @@
 -	[Downloading all available pdfs in topic searchbar google scholar ](https://github.com/AdityaUd/AdityaUd/blob/main/Google%20Scholar%20Searchbar%20Scraping.py)
 ## Collecting different format information from pdf 
 -	[Reading all text from a pdf](https://github.com/AdityaUd/AdityaUd/blob/main/Text%20Mining%20Web%20Scraping%20intro.py)
--	[Saving all images from a pdf](‘’) 
--	[Saving all tables from a pdf](‘’) 
+-	[Saving all images from a pdf](‘’) _deadlink_
+-	[Saving all tables from a pdf](‘’) _deadlink_
 ## Further action on text
--	[Reading all nouns in pdf]()
+-	[Reading all nouns in pdf](https://github.com/AdityaUd/AdityaUd/blob/main/Text%20mining%20Pdf%20nouns.py)
 
 
 <!---
